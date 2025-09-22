@@ -40,8 +40,8 @@ I enjoy working with both backend and frontend technologies, and exploring how d
 ## ✨ Other things
 
 - Favorite language: Python 🐍  
-- Currently exploring: React, DevOps, cloud deployments ☁️  
-- Interests: tech, design, and continuous learning 📚  
+- Currently exploring: Next.js, DevOps, Cloud ☁️  
+- Interests: Tech, a little of AI/LLMs, and continuous learning 📚  
 
 ---
 
