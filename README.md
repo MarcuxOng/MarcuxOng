@@ -46,3 +46,4 @@ I enjoy working with both backend and frontend technologies, and exploring how d
 
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/marcuxong)
+[![Website](https://img.shields.io/badge/Website-808080?logoColor=white&style=for-the-badge)](https://marcuxong.vercel.app/)
