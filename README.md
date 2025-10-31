@@ -30,6 +30,7 @@ I enjoy working with both backend and frontend technologies, and exploring how d
 ### Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
 
 ### Skills & Technologies
 
