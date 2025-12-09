@@ -3,7 +3,7 @@
 Aspiring Software Engineer passionate about building applications, solving problems, and constantly learning.  
 I enjoy working with both backend and frontend technologies, and exploring how design and code come together.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcuxong&show_icons=true&locale=en" alt="marcuxong" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcuxong&show_icons=true&locale=en" alt="marcuxong" /></p> -->
 
 ## Skills
 
