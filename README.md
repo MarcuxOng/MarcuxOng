@@ -3,15 +3,13 @@
 Aspiring Software Engineer passionate about building applications, solving problems, and constantly learning.  
 I enjoy working with both backend and frontend technologies, and exploring how design and code come together.
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcuxong&show_icons=true&locale=en" alt="marcuxong" /></p> -->
-
 ## Skills
 
 <a href="https://github.com/marcuxong" target="_blank">
   <img alt="A terminal animation showing running Python code with output." align="right" src="img/code.gif" />
 </a>
 
-### Programming languages
+### Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
@@ -23,20 +21,19 @@ I enjoy working with both backend and frontend technologies, and exploring how d
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge)
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
 
-### Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
-
-### Skills & Technologies
+### Tools & Technologies
 
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-![AI/LLM Integration](https://img.shields.io/badge/AI%2FLLM%20Integration-7B61FF?logo=openaigym&logoColor=white&style=for-the-badge)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge)
+![AI/LLM Integration](https://img.shields.io/badge/AI%2FLLM%20Integration-7B61FF?style=for-the-badge)
+![MCP Server](https://img.shields.io/badge/MCP%20Server-FF6F00?style=for-the-badge)
 
 ---
 
