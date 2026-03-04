@@ -5,10 +5,6 @@ I enjoy working with both backend and frontend technologies, and exploring how d
 
 ## Skills
 
-<a href="https://github.com/marcuxong" target="_blank">
-  <img alt="A terminal animation showing running Python code with output." align="right" src="img/code.gif" />
-</a>
-
 ### Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
