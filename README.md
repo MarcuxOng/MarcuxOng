@@ -45,3 +45,9 @@ I am an aspiring Software Engineer who is passionate about building applications
 ## 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/marcuxong)
 [![Website](https://img.shields.io/badge/Website-000000?logo=vercel&logoColor=white&style=for-the-badge)](https://marcuxong.vercel.app/)
+
+---
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MarcuxOng&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=MarcuxOng&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcuxOng&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
