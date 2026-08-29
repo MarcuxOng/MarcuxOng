@@ -40,7 +40,6 @@ I am an aspiring Software Engineer who is passionate about building applications
 - Favorite language: Python 🐍
 - Currently exploring: Cloud ☁️, Mobile Development, AI Engineering
 - Interests: Tech, AI/LLMs, and continuous learning 📚
----
  
 ## 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/marcuxong)
